@@ -38,6 +38,7 @@
           "parser": "astro"
         }
       }
-    ]
+    ],
+    "semi": false
   }
 }
